@@ -1,0 +1,2 @@
+streamlit==1.25.0  # Replace with your desired version
+textblob==0.17.1
